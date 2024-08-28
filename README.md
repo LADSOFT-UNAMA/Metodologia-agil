@@ -34,7 +34,3 @@ A Sprint é como uma corrida de curta distância. 🏁 A equipe tem de 1 a 4 sem
 ## Reuniões e a Daily: Qual a Semelhança?
 
 A Daily é só uma das reuniões do time, mas é a mais rápida e direta! 💬 Enquanto outras reuniões podem ser mais longas e detalhadas (tipo a Review ou o planejamento da Sprint), a Daily é uma "passadinha rápida" para ver se todo mundo está alinhado e sem problemas. O que todas essas reuniões têm em comum? Elas mantêm o time conectado e o projeto na trilha certa!
-
----
-
-Esse README é o guia definitivo para entender a Metodologia Ágil de forma leve e descomplicada! Agora você já sabe o que cada um faz no time e como as coisas rolam por aqui. Bora colocar a mão na massa e fazer acontecer! 🚀
